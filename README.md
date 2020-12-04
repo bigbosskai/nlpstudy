@@ -36,6 +36,9 @@
 17. Stack-Pointer Networks for Dependency Parsing
 18. Graph-based Dependency Parsing with Graph Neural Networks
 19. Self-attentive Biaffine Dependency Parsing
+29. A Simple and Effective Dependency parser for Telugu
+30. 基于多特征融合编码的神经网络依存句法分析模型
+`名童师兄转移句法发的中文信息学报`
 # 如何使用句法
 1. Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge(acl2020)
 2. Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks
@@ -44,6 +47,7 @@
 2. Neural Graph Matching Networks for Chinese Short Text Matching
 3. Syntax-Aware Attention for Natural Language Inference with Phrase-Level Matching
 4. Natural Language Inference by Tree-Based Convolution and Heuristic Matching
+
 # 其他
 1. Attention Is All You Need
 2. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
@@ -59,3 +63,7 @@
 12. Neural Machine Translation by Jointly Learning to Align and Translate
 13. 2019emnlpText Level Graph Neural Network for Text Classification
 14. Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics
+15. Design Challenges and Misconceptions in Neural Sequence Labeling
+16. Attentive Pooling with Learnable Norms for Text Representation
+17. Gradient Normalization for Adaptive  Loss Balancing in Deep Multitask Networks
+18. State-of-the-art Chinese Word Segmentation with Bi-LSTMs
